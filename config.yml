@@ -1,5 +1,0 @@
-# Refer https://github.com/zyrouge/pong#configuration for documentation
-
-urls:
-  - path: "https://www.aitt.in"
-    type: "get"
